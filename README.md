@@ -5,7 +5,7 @@
 - [Tivaware](https://www.ti.com/tool/SW-TM4C)
 - [FreeRTOS](https://www.freertos.org/index.html)
 ## Hardware
-- Schematic: [Sheet1.pdf](/Sheet1.pdf.pdf)
+- Schematic: [Sheet1.pdf](/Sheet1.pdf)
 - PCB: [PCB1.pdf](/PCB1.pdf)
 
 ![alt text](/pcb.jpg)
